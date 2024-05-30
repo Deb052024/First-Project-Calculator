@@ -1,7 +1,4 @@
-# Python program to create a simple GUI 
-# calculator using Tkinter 
 
-# import everything from tkinter module 
 from tkinter import *
 import tkinter as tk 
 import math

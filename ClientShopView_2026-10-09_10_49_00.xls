@@ -1,0 +1,1051 @@
+
+
+
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7 ]> <html class="no-js ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="no-js ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="no-js ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta http-equiv="content-type" content="text/html;charset=utf-8">
+
+	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame
+		Remove this if you use the .htaccess -->
+ 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+	<title>12434192 - Client View</title>
+	<meta name="description" content="">
+	<meta name="author" content="">
+
+	<!-- Mobile viewport optimized: j.mp/bplateviewport -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<!-- Place favicon.ico & apple-touch-icon.png in the root of your domain and delete these references -->
+	<link rel="shortcut icon" href="/favicon.ico">
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+	<script src="/sassiehelpers/lib/jquery/jquery.js" type="text/javascript"></script>
+	<script src="/sassiehelpers/lib/jquery/jquery-ui/jquery-ui.js" type="text/javascript"></script>
+
+	<!-- CSS: implied media="all" -->
+	<link rel="stylesheet" href="https://www.apollo.bareinternational.com/fetch/css/style.css?v=2">
+	<link rel="stylesheet" href="https://www.apollo.bareinternational.com/fetch/css/core.css">
+
+	<!-- the theme -->
+	<link class="theme" rel="stylesheet" href="https://www.apollo.bareinternational.com/sassiehelpers/common/css/CustomTheme.css.php?theme=e81a5074-f7db-4f03-8ffa-24f89c8b4751">
+
+	<!-- other includes -->
+	<script language='JavaScript1.2'>
+				<!--
+				function centerMe( pWidth, pHeight)
+				{
+					var sWidth = screen.width;
+					var sHeight = screen.height;
+					// this assumes your popup is smaller than the screen size...
+					var popX = (sWidth / 2) - (pWidth / 2);
+					var popY = (sHeight / 2) - (pHeight / 2);
+					
+					return 'left='+popX+',top='+popY;
+				}		
+				// -->
+				</script>	
+
+	<!-- All JavaScript at the bottom, except for Modernizr which enables HTML5 elements & feature detects -->
+	<script src="https://www.apollo.bareinternational.com/fetch/js/libs/modernizr-1.7.min.js"></script>
+
+	<script src="https://www.apollo.bareinternational.com/sassiehelpers/common/js/gotoSite.js"></script>
+</head>
+
+<body >
+	<div id="container">
+		<header>
+			
+		</header>
+		<div id="main" role="main">
+			
+
+
+<!--
+	<h3>
+	<p class="error">		
+			
+	</p>
+	</h3>
+-->
+
+	<div class="ClientShopView_Container">
+	<p></p>
+
+
+
+<div class="ClientShopView_Logo">
+		<!--
+			<img src = '' >
+		-->	
+		<!--			
+			<img src = '' >
+		-->		
+</div>
+
+
+
+<table border = '0' cellpadding = '0' cellspacing = '0' width = '626'>
+	<tr>
+		<td align="left">	
+			<table border="1" cellpadding="3" cellspacing="0" width="100%">
+				<tr>
+					<td colspan="2" width = '100%' align="center" bgcolor="#9d102d">
+						<span class="white20bold">
+							Hotels EMEA: PO 2026 Overnight 1 # DMMRI Audit
+						</span>
+						<p>
+						<span class="white12bold">
+							18-08-26
+						</span>
+						
+						
+						<span class = 'white12bold'></span>
+					</td>
+				</tr>
+				
+
+
+<tr class="data ClientShopView_LevelHeader">
+	<td>
+		<span>
+		
+			Audit ID: 12434192<br />
+				
+		Residence Inn by Marriott Dammam<br />
+		</span>
+		
+		Al Badi, Dammam 32415, Saudi Arabia<br />
+		
+		Dammam NA SA <br />
+				
+						
+		&nbsp;		
+	</td>		
+	<td>
+		
+
+
+
+Location DOF: DMMRI
+
+
+
+<!--
+
+-->
+<!--
+ ()
+-->
+<br />
+
+						
+		<!--
+			<br />
+		-->		
+		&nbsp;
+	</td>
+</tr>			
+
+					
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td align="left">
+			
+				
+				
+					<table border=1 cellspacing= '0' cellpadding='3' width='626'>
+						<tr bgcolor=#9d102d class='form_header'>
+							<td width='407' align=center>
+								<span class='white12bold'>Question</span>
+							</td>
+							
+							<td width = '249' align=center>
+								<span class='white12bold'>Answer</span>
+							</td>
+						</tr>
+					
+		
+					<!-- NEED 2 --><tr class='qfmt46 qno3201' BGCOLOR='#003466'>
+						<td COLSPAN='2' align="left">
+							<span class="s16"><span style="color: White;"><b><center>OVERNIGHT 1<br></b></span></span></td>
+					</tr>
+					<!-- NEED 2 --><tr class='qfmt42 qno3211' BGCOLOR='#003466'>
+						<td COLSPAN='2' align="center">
+							<span class="s16"><span style="color: White;"><b>The Overnight 1 - A 2 day/1 Night Audit includes the following interactions:</b></span></span></td>
+					</tr>
+					<!-- NEED 2 --><tr class='qfmt46 qno3221' BGCOLOR='White'>
+						<td COLSPAN='2' align="left">
+							<span class="s14"><span style="color: #003466;"><br><big><b>1 Reservation Integrity Audit<br>
+1 Front Desk Check-in Integrity Audit<br>
+1 Front Desk Check-out Integrity Audit<br>
+1 Front Desk Currency Exchange Integrity Transaction (if offered at hotel)<br>
+1 Front Desk Lock-Out Transaction<br><br>
+Up to 2 Bar/Beverage Outlets of which each includes:</big></b><br>
+  *2 Bar/Beverage Outlet Cash Transactions per outlet<br>
+<br>
+<big><b>1 Dinner or Breakfast in Restaurant which includes:<br></b></big>
+  *1 Restaurant/Buffet Cash Transaction<br>
+<br>
+<big><b>1 Room Service Cash Transaction<br></big></b>
+
+  *Room Service & Restaurant to alternate between dinner and breakfast<br>
+<br><big><b>1 Spa Cash Transaction (60 minute massage or facial)<br><br>Valet evaluation available for an extra $40 fee.
+</big></b></span></span></td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt25 qno1' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">Today's Date</span></td>
+						<td valign="top" align="left">
+							<!--
+8/18/2026
+-->
+
+18/8/2026
+</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt9 qno3261' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">The above described audit meets my needs</span></td>
+						<td valign="top" align="left">
+										<div class=
+							"lineitem option1 lineitem3261">Yes! An Overnight 1 - A 2 day/1 Night Audit is what I require</div>
+							<div class='lineitem'></div>
+						</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt9 qno4371' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">Please select one:</span></td>
+						<td valign="top" align="left">
+										<div class=
+							"lineitem option1 lineitem4371">This is the initial order for 2026 for this location.</div>
+										<div class=
+							"lineitem option2 lineitem4371"></div>
+										<div class=
+							"lineitem option3 lineitem4371"></div>
+							<div class='lineitem'></div>
+						</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt9 qno3861' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">Select your region.<br><br><b>If you are located in Algeria, Morocco, Tunisia or Egypt, please select North Africa.<br><br></b>
+ 
+After receiving payment for the total PO amount, BARE will add your requested audit to the schedule.<br>  <BR>PRE-PAY INVOICES THAT ARE NOT PAID WITHIN 60 DAYS WILL RESULT IN A 3% LATE FEE. <br>
+<br></span></td>
+						<td valign="top" align="left">
+										<div class=
+							"lineitem option1 lineitem3861">TIER 1 - $743 UAE Gulf/Levant, KSA/Bahrain</div>
+										<div class=
+							"lineitem option2 lineitem3861"></div>
+										<div class=
+							"lineitem option3 lineitem3861"></div>
+										<div class=
+							"lineitem option4 lineitem3861"></div>
+							<div class='lineitem'></div>
+						</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt12 qno3361' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">Please select audit frequency:<br><br>Unless otherwise requested, best efforts will be made to schedule audits as ordered. However, our ability to do so is dependent upon when the PO is submitted and the pre-payment is received. If these are not submitted in enough time, we will space out audits based on time still available in 2026.</span></td>
+						<td valign="top" align="left">
+										<div class=
+							"lineitem option1 lineitem3361">Annual - 1 visit during 2026</div>
+										<div class=
+							"lineitem option2 lineitem3361"></div>
+										<div class=
+							"lineitem option3 lineitem3361"></div>
+										<div class=
+							"lineitem option4 lineitem3361"></div>
+							<div class='lineitem'></div>
+						</td>
+					</tr>
+					<!-- NEED 2 --><tr class='qfmt46 qno31' BGCOLOR='#003466'>
+						<td COLSPAN='2' align="left">
+							<span class="s14"><span style="color: White;"><b><center>Location Information</b></span></span></td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt31 qno3831' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">5-Letter Marsha Code of Property:</span></td>
+						<td valign="top" align="left">
+							DMMRI</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt31 qno3171' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">Your Name:</span></td>
+						<td valign="top" align="left">
+							MAHMOUD ELMEGUID</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt31 qno3181' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">Your Email Address:</span></td>
+						<td valign="top" align="left">
+							mahmoud.elmeguid@marriott.com</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt31 qno81' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">Property Name:</span></td>
+						<td valign="top" align="left">
+							RESIDENCE INN BY MARRIOTT DAMMAM</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt31 qno3871' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">Trade/Legal Name (if applicable):</span></td>
+						<td valign="top" align="left">
+							RESIDENCE INN BY MARRIOTT COMAPNY</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt31 qno91' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">Property Address and Street Number:</span></td>
+						<td valign="top" align="left">
+							8076 PRINCE MOHAMED BIN FAHD ROAD, AL BADIE</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt31 qno101' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">Property City:</span></td>
+						<td valign="top" align="left">
+							DAMMAM</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt31 qno111' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">Property State/Province:</span></td>
+						<td valign="top" align="left">
+							DAMMAM</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt31 qno121' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">Property Zip/Postal Code:</span></td>
+						<td valign="top" align="left">
+							32415</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt31 qno131' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">Property Country:</span></td>
+						<td valign="top" align="left">
+							SAUDI ARABIA</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt10 qno4001' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">Hotel Requires Certificate of Residence to avoid double taxation.</span></td>
+						<td valign="top" align="left">
+										<div class=
+							"nolineitem option1 lineitem4001">Yes</div>
+										<div class=
+							"nolineitem option2 lineitem4001"></div>
+							<div class='nolineitem'></div>
+						</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt31 qno4041' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003366;">VAT Number, if applicable</span></td>
+						<td valign="top" align="left">
+							31018604520003</td>
+					</tr>
+					<!-- NEED 2 --><tr class='qfmt46 qno3461' BGCOLOR='#003466'>
+						<td COLSPAN='2' align="left">
+							<span class="s14"><span style="color: White;"><b><center>Hotel Managers</b></span></span></td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt31 qno3471' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">DOF Name:</span></td>
+						<td valign="top" align="left">
+							MAHMOUD ELMEGUID</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt31 qno3481' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">DOF Email:</span></td>
+						<td valign="top" align="left">
+							mahmoud.elmeguid@marriott.com</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt31 qno3491' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">General Manager Name:</span></td>
+						<td valign="top" align="left">
+							WAEL HAFEZ</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt31 qno3501' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">General Manager Email:</span></td>
+						<td valign="top" align="left">
+							wael.hafez@marriott.com</td>
+					</tr>
+					<!-- NEED 2 --><tr class='qfmt46 qno151' BGCOLOR='#003466'>
+						<td COLSPAN='2' align="left">
+							<span class="s14"><span style="color: White;"><b><center>Billing Contact Information</b></span></span></td>
+					</tr>
+					<!-- NEED 2 --><tr class='qfmt46 qno3851' BGCOLOR='#CCCCCD'>
+						<td COLSPAN='2' align="left">
+							<span style="color: #003466;">All invoices will be delivered to the location DOF unless otherwise indicated below.</span></td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt10 qno4071' BGCOLOR='White'>
+						<td valign="top" align="left">
+							Is your legal billing name and/or address different from that of the hotel and is required to process payment?</td>
+						<td valign="top" align="left">
+										<div class=
+							"nolineitem option1 lineitem4071">Yes</div>
+										<div class=
+							"nolineitem option2 lineitem4071"></div>
+							<div class='nolineitem'></div>
+						</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt31 qno4081' BGCOLOR='White'>
+						<td valign="top" align="left">
+							Legal name needed to process payment.</td>
+						<td valign="top" align="left">
+							RESIDENCE INN BY MARRIOTT COMAPNY</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt10 qno4421' BGCOLOR='White'>
+						<td valign="top" align="left">
+							Is there a centralized billing or different contact email for the invoice? <i>(The invoice is normally sent to the location DOF)</i></td>
+						<td valign="top" align="left">
+										<div class=
+							"nolineitem option1 lineitem4421"></div>
+										<div class=
+							"nolineitem option2 lineitem4421">No</div>
+							<div class='nolineitem'></div>
+						</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt31 qno4061' BGCOLOR='White'>
+						<td valign="top" align="left">
+							Please provide the email address where invoices should be sent <i>(if not to the location DOF)</i>:</td>
+						<td valign="top" align="left">
+							mahmoud.elmeguid@marriott.com</td>
+					</tr>
+					<!-- NEED 2 --><tr class='qfmt46 qno291' BGCOLOR='#003466'>
+						<td COLSPAN='2' align="left">
+							<span class="s14"><span style="color: White;"><b><center>Report Delivery Contact</b></span></span></td>
+					</tr>
+					<!-- NEED 2 --><tr class='qfmt46 qno301' BGCOLOR='#CCCCCC'>
+						<td COLSPAN='2' align="left">
+							<span style="color: #003466;">-The audit report will be delivered to the location DOF, Area DOF, and Regional Manager as aligned by corporate HQ.<br><br>
+
+-The report will be available within 3 calendar days of audit<br><br>
+
+-All reports are provided in English<br><br>
+
+-All inquires regarding your report should be submitted to your account manager within 3 business days.</span></td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt10 qno4431' BGCOLOR='White'>
+						<td valign="top" align="left">
+							I have read and understand the above regarding report delivery:</td>
+						<td valign="top" align="left">
+										<div class=
+							"nolineitem option1 lineitem4431">Yes</div>
+										<div class=
+							"nolineitem option2 lineitem4431"></div>
+							<div class='nolineitem'></div>
+						</td>
+					</tr>
+					<!-- NEED 2 --><tr class='qfmt46 qno451' BGCOLOR='#003466'>
+						<td COLSPAN='2' align="left">
+							<span class="s14"><span style="color: White;"><b><center>Scheduling</b></span></span></td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt9 qno3801' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">When would you like your audit(s) to occur? (Multi Choices OK)<br>
+<br>
+Please allow at least 4 weeks for scheduling process after pre-payment is received. Rush scheduling available for an additional fee.
+<br><br>Unless otherwise requested, best efforts will be made to schedule audits as ordered. However, our ability to do so is dependent upon when the PO is submitted and the pre-payment is received. If these are not submitted in enough time, we will field audits based on time still available in 2026.</span></td>
+						<td valign="top" align="left">
+										<div class=
+							"lineitem option1 lineitem3801"></div>
+										<div class=
+							"lineitem option2 lineitem3801"></div>
+										<div class=
+							"lineitem option3 lineitem3801"></div>
+										<div class=
+							"lineitem option4 lineitem3801"></div>
+										<div class=
+							"lineitem option5 lineitem3801">Anytime during 2026</div>
+							<div class='lineitem'></div>
+						</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt10 qno4091' BGCOLOR='White'>
+						<td valign="top" align="left">
+							Are there BLACKOUT dates where audits are not to occur?<br><br>
+<b>Leaving this section blank allows BARE to visit your property at anytime during the specified time frame</b></td>
+						<td valign="top" align="left">
+										<div class=
+							"nolineitem option1 lineitem4091"></div>
+										<div class=
+							"nolineitem option2 lineitem4091">No</div>
+							<div class='nolineitem'></div>
+						</td>
+					</tr>
+					<!-- NEED 2 --><tr class='qfmt46 qno681' BGCOLOR='#003466'>
+						<td COLSPAN='2' align="left">
+							<span class="s14"><span style="color: White;"><b><center>Overnight 1 Check Specifications</b></span></span></td>
+					</tr>
+					<!-- NEED 2 --><tr class='qfmt46 qno701' BGCOLOR='#CCCCCC'>
+						<td COLSPAN='2' align="left">
+							<span style="color: #003466;"><b>Please provide additional information about each cash integrity transaction and be sure to indicate all expense maximums.
+<br>
+<br>
+Provide a name for each outlet. The evaluator may be required to substitute in some cases. <br>
+<br>
+
+If you do not want the indicated service evaluated, please put N/A under name and indicate an expense maximum of "0.00" (required)<br>
+<br>
+
+To convert local currency to USD ($), please visit www.xe.com <br>
+<br>
+The expenses provided by you will be billed as reimbursement with your pre-pay fee invoice. Do make these representative of the cost of the products and services.<br><br>Please be as precise as possible when entering information.  In cases where contradictory and/or insufficient information is provided, BARE will make our decisions and conduct the shop based on past data.</b></span></td>
+					</tr>
+					<!-- NEED 2 --><tr class='qfmt46 qno781' BGCOLOR='#E4EAF3'>
+						<td COLSPAN='2' align="left">
+							<span style="color: #003466;"><b>Bar/Beverage 1</b></span></td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt31 qno791' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">Preferred Outlet Name - Bar/Beverage 1<br><br>Please only provide the name of the outlet where the evaluator should conduct two cash beverage evaluations during their visit. Anything else entered here will be removed from the PO and not included in the audit.<br><br>If your location does not have a bar (or equivalent outlet to purchase a beverage) or if it should not be audited for any reason, please put N/A here.</span></td>
+						<td valign="top" align="left">
+							THE LOBBY BAR</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt21 qno801' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">Expense Maximum - Bar/Beverage 1<br><br>
+This amount should cover the full amount needed for the scope (two simple drinks and any applicable taxes).</span></td>
+						<td valign="top" align="left">
+							USD20.00</td>
+					</tr>
+					<!-- NEED 2 --><tr class='qfmt46 qno861' BGCOLOR='#E4EAF3'>
+						<td COLSPAN='2' align="left">
+							<span style="color: #003466;"><b>Bar/Beverage 2</b></span></td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt31 qno871' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">Preferred Outlet Name - Bar/Beverage 2<br><br>Please only provide the name of the outlet where the evaluator should conduct two cash beverage evaluations during their visit. Anything else entered here will be removed from the PO and not included in the audit.<br><br>If your location does not have a bar (or equivalent outlet to purchase a beverage) or if it should not be audited for any reason, please put N/A here.</span></td>
+						<td valign="top" align="left">
+							THE DISH</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt21 qno881' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">Expense Maximum - Bar/Beverage 2<br><br>
+This amount should cover the full amount needed for the scope (two simple drinks and any applicable taxes).</span></td>
+						<td valign="top" align="left">
+							USD100.00</td>
+					</tr>
+					<!-- NEED 2 --><tr class='qfmt46 qno901' BGCOLOR='#E4EAF3'>
+						<td COLSPAN='2' align="left">
+							<span style="color: #003466;"><b>Restaurant</b></span></td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt31 qno911' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">Preferred Outlet Name - Restaurant<br><br>Please only provide the name of the outlet where the evaluator should conduct a cash dining evaluation during their visit. Anything else entered here will be removed from the PO and not included in the audit.<br><br>If your location does not have a restaurant or if it should not be audited for any reason, please put N/A here.</span></td>
+						<td valign="top" align="left">
+							NO</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt21 qno921' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">Expense Maximum - Restaurant<br><br>
+This amount should cover the full amount needed for the scope of the audit including tax and tip. Please note that the evaluator is asked to purchase a modest three course meal (appetizer, entree and dessert) and a non-alcoholic beverage.</span></td>
+						<td valign="top" align="left">
+							USD00.00</td>
+					</tr>
+					<!-- NEED 2 --><tr class='qfmt46 qno3541' BGCOLOR='#E4EAF3'>
+						<td COLSPAN='2' align="left">
+							<span style="color: #003466;"><b>Room Service</b></span></td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt21 qno1001' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">Expense Maximum - Room Service</span></td>
+						<td valign="top" align="left">
+							USD50.00</td>
+					</tr>
+					<!-- NEED 2 --><tr class='qfmt46 qno3951' BGCOLOR='#E4EAF3'>
+						<td COLSPAN='2' align="left">
+							<span style="color: #003466;"><b>Spa</b></span></td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt31 qno3961' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">Preferred Outlet Name - Spa<br><br>Please only provide the name of the outlet where the evaluator should conduct a cash spa evaluation during their visit. Anything else entered here will be removed from the PO and not included in the audit.<br><br>If your location does not have a spa or if it should not be audited for any reason, please put N/A here.</span></td>
+						<td valign="top" align="left">
+							NOT APLICABLE</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt21 qno3971' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">Expense Maximum - Spa<br><br>
+This amount should cover the full amount needed for the scope of the audit including tax and tip. Please note that the evaluator is asked to purchase a 60 minute massage or facial.</span></td>
+						<td valign="top" align="left">
+							USD0.00  </td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt31 qno4451' BGCOLOR='#CCCCCC'>
+						<td valign="top" align="left">
+							<span style="color: #003366;"><b>I understand that if a guest spend is more than the amounts I have indicated above and they have ordered modestly, as requested, BARE will invoice my location the difference after all ordered audits have been conducted.  <br><br>Initial Here:</b></span></td>
+						<td valign="top" align="left">
+							MAHMOUD ELMEGUID</td>
+					</tr>
+					
+					<!-- NEED 5 --><tr class='qfmt32 qno4441' BGCOLOR='#CCCCFF'>
+						<td COLSPAN='2' align="center">
+							<div align="left">
+										<span style="color: #003466;"><b>Additional Scheduling Considerations<br><br>This may include, but is not limited to days and/or times when specific outlets are open or closed, specific attire needed, etc.:</b></span></div>
+								<br/>
+								<br>
+<div align = 'left'>breakfast buffet<br />
+lunch &amp; dinner a lacard<br />
+<br />
+the lobby loung from 8.00 to 8 pm<br />
+same room service</div>&nbsp;&nbsp;
+									</td>
+								</tr>
+					<!-- NEED 2 --><tr class='qfmt46 qno4511' BGCOLOR='#E4EAF3'>
+						<td COLSPAN='2' align="left">
+							<span style="color: #660000;"><b>Lodging</b></span></td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt21 qno4021' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003366;"><b>Cost of lodging for overnight room including taxes in USD.</b></span></td>
+						<td valign="top" align="left">
+							120.00  </td>
+					</tr>
+					<!-- NEED 2 --><tr class='qfmt46 qno4471' BGCOLOR='#CCCCFF'>
+						<td COLSPAN='2' align="left">
+							<b>We always work with our evaluators to schedule the least expensive rooms available. However, should circumstances arise where the lowest rate exceeds the amount above, please provide the maximum you would be willing to reimburse for a room. <br><br>You will only be invoiced on the pre-pay for the amount provided above, however, having this additional information will help avoid delays.</b></td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt31 qno4731' BGCOLOR='White'>
+						<td valign="top" align="left">
+							Maximum reimbursement for overnight lodging including taxes in USD.</td>
+						<td valign="top" align="left">
+							20.00</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt10 qno4461' BGCOLOR='#CCCCCC'>
+						<td valign="top" align="left">
+							<b>Does your location offer currency exchange services?</b></td>
+						<td valign="top" align="left">
+										<div class=
+							"nolineitem option1 lineitem4461"></div>
+										<div class=
+							"nolineitem option2 lineitem4461">No</div>
+							<div class='nolineitem'></div>
+						</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt10 qno4491' BGCOLOR='#CCCCCC'>
+						<td valign="top" align="left">
+							<b>Would a guest paying only cash while on location make them stand out or be identified as an evaluator?</b></td>
+						<td valign="top" align="left">
+										<div class=
+							"nolineitem option1 lineitem4491"></div>
+										<div class=
+							"nolineitem option2 lineitem4491">No</div>
+							<div class='nolineitem'></div>
+						</td>
+					</tr>
+					
+					<!-- NEED 5 --><tr class='qfmt32 qno4501' BGCOLOR='White'>
+						<td COLSPAN='2' align="center">
+							<div align="left">
+										<span style="color: #003366;">Please explain:</span></div>
+								<br/>
+								<br>
+<div align = 'left'>Use your preferred method of payment</div>&nbsp;&nbsp;
+									</td>
+								</tr>
+					
+					<!-- NEED 5 --><tr class='qfmt32 qno1151' BGCOLOR='#CCCCCC'>
+						<td COLSPAN='2' align="center">
+							<div align="left">
+										<b>Additional audit information for the Overnight 1 Audit. <br><br>Please use this opportunity to provide us any information that would assist us in scheduling an audit of your location.</b></div>
+								<br/>
+								<br>
+<div align = 'left'>We serve a breakfast buffet &amp; lunch and dinner a la card<br />
+loung from 9.00 am to 6.00 pm</div>&nbsp;&nbsp;
+									</td>
+								</tr>
+					<!-- NEED 2 --><tr class='qfmt46 qno3021' BGCOLOR='#003466'>
+						<td COLSPAN='2' align="left">
+							<span class="s14"><span style="color: White;"><b><center>Additional Fees</b></span></span></td>
+					</tr>
+					<!-- NEED 2 --><tr class='qfmt46 qno3031' BGCOLOR='White'>
+						<td COLSPAN='2' align="left">
+							<span style="color: #003466;"><b><big><font color =#DF0101>Wire Transfer Fees are the responsibility of the sender (hotel), not the recipient.<br><br></big></b></font color =#DF0101>
+<b><u>On Property Expenses</u></b><br>
+- Client agrees to reimburse all expenses incurred on premises over the course of the audit as well as any expenses incurred at the request of the client.  These reimbursements will be added to the invoice.<br><br>
+<b><u>Special Requests</u></b><br> -
+Special requests will be handled on a case-by-case basis and may incur additional cost. <br><br>
+<b><u>Expense Documentation</u></b><br>
+-Documentation of all expenses provided upon request for 90 days after date of invoice.  If requested after 90 days, an administrative fee of $25 USD will be charged.<br><br></span></td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt10 qno3891' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;"><b><u>Executive Debrief</b></u><br><br>
+-Client would like to arrange an in-person Executive Debrief at the conclusion of the overnight evaluation and agrees to an additional $50 for an Executive debrief.</span></td>
+						<td valign="top" align="left">
+										<div class=
+							"nolineitem option1 lineitem3891"></div>
+										<div class=
+							"nolineitem option2 lineitem3891">No</div>
+							<div class='nolineitem'></div>
+						</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt10 qno4531' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<B><U>Valet Parking Evaluation Add-On</U></B><br><br>-Would you like the evaluator to conduct a cash transaction at the valet as part of the audit? Additional questions will be added to your report with this add-on.<br><br>Additional Fee: $40 USD per instance plus reimbursement</td>
+						<td valign="top" align="left">
+										<div class=
+							"nolineitem option1 lineitem4531"></div>
+										<div class=
+							"nolineitem option2 lineitem4531">No</div>
+							<div class='nolineitem'></div>
+						</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt10 qno4581' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<b><u>Rush Scheduling</b></u><br><br>
+If you need your audit conducted within 14 days of receipt of payment, you need to pay for Rush Scheduling.<br><br>Additional Fee: $40 USD per instance<br>  <br> 
+Do you require RUSH scheduling?</td>
+						<td valign="top" align="left">
+										<div class=
+							"nolineitem option1 lineitem4581"></div>
+										<div class=
+							"nolineitem option2 lineitem4581">No</div>
+							<div class='nolineitem'></div>
+						</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt10 qno4741' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<b><u>Targeted Employee Scheduling</u></b><br><br>
+If you need a specific employee targeted during one or more of your audits.<br><br>
+Additional Fee: $40 USD per instance<br><br>
+
+Do you require Targeted Employee Scheduling?</td>
+						<td valign="top" align="left">
+										<div class=
+							"nolineitem option1 lineitem4741"></div>
+										<div class=
+							"nolineitem option2 lineitem4741">No</div>
+							<div class='nolineitem'></div>
+						</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt10 qno4691' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<b><u>Targeted Shift/Day Scheduling</u></b><br><br>
+If you need a specific shift or day targeted during one or more of your audits.<br><br>
+Additional Fee: $40 USD per instance.<br><br>
+
+Do you require Targeted Shift/Day Scheduling?</td>
+						<td valign="top" align="left">
+										<div class=
+							"nolineitem option1 lineitem4691"></div>
+										<div class=
+							"nolineitem option2 lineitem4691">No</div>
+							<div class='nolineitem'></div>
+						</td>
+					</tr>
+					<!-- NEED 2 --><tr class='qfmt46 qno4631' BGCOLOR='#003466'>
+						<td COLSPAN='2' align="left">
+							<span class="s14"><span style="color: White;"><b><center>Payment Information</b></span></span></td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt9 qno4301' BGCOLOR='White'>
+						<td valign="top" align="left">
+							Payment will be remitted via: (Check one)<br><br>
+Benefits of Credit Card payments:<br>
+*No wire fee <br>
+*No CC processing fee (BARE absorbs this) <br>
+*Faster account reconciliation and fieldwork<br>
+*Information transmitted via secure link that is PCI compliant.</td>
+						<td valign="top" align="left">
+										<div class=
+							"lineitem option1 lineitem4301">Wire Transfer (fee is responsibility of ordering location)</div>
+										<div class=
+							"lineitem option2 lineitem4301"></div>
+							<div class='lineitem'></div>
+						</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt10 qno4321' BGCOLOR='White'>
+						<td valign="top" align="left">
+							I understand that the wire fee is the responsibility of the ordering party.</td>
+						<td valign="top" align="left">
+										<div class=
+							"nolineitem option1 lineitem4321">Yes</div>
+										<div class=
+							"nolineitem option2 lineitem4321"></div>
+							<div class='nolineitem'></div>
+						</td>
+					</tr>
+					<!-- NEED 2 --><tr class='qfmt42 qno3141' BGCOLOR='#003466'>
+						<td COLSPAN='2' align="center">
+							<span class="s14"><span style="color: White;"><b><center><i><font comic sans ms> Thank you - we appreciate your business!</b></span></span></td>
+					</tr>
+					<!-- NEED 2 --><tr class='qfmt46 qno3151' BGCOLOR='White'>
+						<td COLSPAN='2' align="left">
+							<span class="s14"><span style="color: #003466;"><center><b>This PO/ Agreement has been executed in accordance with the agreement between BARE and Marriott EMEA Continent Office. <br><br>AGREEMENT EXECUTION:</b><br><br>
+
+By clicking the </b>"Submit" </b>button, you will be fully executing this Purchase Order/ Agreement.<br><br></span></span></td>
+					</tr>
+					<!-- NEED 2 --><tr class='qfmt45 qno3161' BGCOLOR='#CCCCCC'>
+						<td COLSPAN='2' align="left">
+							<span style="color: Red;"><center>PLEASE REMEMBER TO CLICK THE <b>"SUBMIT"</b> BUTTON.<br>  CLICKING SAVE WILL NOT TRANSMIT YOUR ORDER TO BARE INTERNATIONAL<br><br>
+
+YOU WILL RECEIVE A CONFIRMATION E-MAIL AND PRE-PAY INVOICE WITHIN 5 BUSINESS DAYS. (BUSINESS DAYS ARE MONDAY - FRIDAY, EXCLUDING US FEDERAL HOLIDAYS).</span></td>
+					</tr>
+					<!-- NEED 2 --><tr class='qfmt46 qno4401' BGCOLOR='#FFFFCC'>
+						<td COLSPAN='2' align="left">
+							<b>A 3% late fee will be added to the pre-pay invoice if not paid within 60 days.</b></td>
+					</tr>
+					
+					<!-- NEED 6 --><tr class='qfmt42 qno3721' BGCOLOR='#003466'>
+						<td COLSPAN='2' align="center">
+							<span class="s24"><span style="color: White;"><b>Prepay Invoice</b></span></span><br></td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt46 qno3741' BGCOLOR='Black'>
+						<td COLSPAN='2' align="left">
+							<span class="s14"><span style="color: White;"><b>Please find the prepayment invoice for the services ordered on this purchase order.  All on property reimbursements associated with the conduct of the audits including lodging, taxes, food and beverages, services, parking, valet, gift shop, gratuities will be estimated by the initiator, validated by BARE and added to the fee for payment. BARE will add the audit to the schedule once the payment has been received. PRE-PAY INVOICES THAT ARE NOT PAID WITHIN 60 DAYS WILL RESULT IN A 3% LATE FEE.</b></span></span></td>
+					</tr>
+					<!-- NEED 2 --><tr class='qfmt46 qno4721' BGCOLOR='#CCCCCC'>
+						<td COLSPAN='2' align="left">
+							<b>After completion of the prepayment, kindly send us your payment confirmation.</b></td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt31 qno3681' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">Client Name</span></td>
+						<td valign="top" align="left">
+							RESIDENCE INN BY MARRIOTT DAMMAM</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt31 qno3881' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">Trade Name (if applicable)</span></td>
+						<td valign="top" align="left">
+							RESIDENCE INN BY MARRIOTT COMAPNY</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt31 qno3731' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">Client Contact Name</span></td>
+						<td valign="top" align="left">
+							MAHMOUD ELMEGUID</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt31 qno3781' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">Client Contact Email</span></td>
+						<td valign="top" align="left">
+							mahmoud.elmeguid@marriott.com</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt31 qno3941' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">MARSHA Code</span></td>
+						<td valign="top" align="left">
+							DMMRI</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt31 qno4211' BGCOLOR='#CCCCCC'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">Invoice Number</span></td>
+						<td valign="top" align="left">
+							12434192</td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt21 qno3641' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">Single Audit Fee (USD)</span></td>
+						<td valign="top" align="left">
+							$743  </td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt21 qno3921' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">Extra Fee for Debrief</span></td>
+						<td valign="top" align="left">
+							$0  </td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt21 qno4751' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">Extra Fee for Valet Evaluation</span></td>
+						<td valign="top" align="left">
+							$0  </td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt21 qno4171' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">Special/Rush Scheduling Fee</span></td>
+						<td valign="top" align="left">
+							$0  </td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt21 qno4181' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">Special/Targeted Employee Scheduling</span></td>
+						<td valign="top" align="left">
+							$0  </td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt21 qno4761' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span style="color: #003466;">Special/Targeted Shift or Day Fee</span></td>
+						<td valign="top" align="left">
+							$0  </td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt21 qno3661' BGCOLOR='White'>
+						<td valign="top" align="left">
+							<span class="s14"><span style="color: #003466;">Estimated Reimbursement (including room):</span></span></td>
+						<td valign="top" align="left">
+							$290  </td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt21 qno4291' BGCOLOR='#FFFFCC'>
+						<td valign="top" align="left">
+							<span class="s14"><span style="color: #003466;"><b>Sub-Total for 2026 Order:</b></span></span></td>
+						<td valign="top" align="left">
+							$1033  </td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt21 qno3991' BGCOLOR='#CCFFCC'>
+						<td valign="top" align="left">
+							<span class="s14"><span style="color: #003466;"><b>Past Due Amount:</b></span></span></td>
+						<td valign="top" align="left">
+							$0  </td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt21 qno4191' BGCOLOR='#FFFFCC'>
+						<td valign="top" align="left">
+							<span class="s14"><span style="color: #003466;"><b>Subtotal With Past Dues:</b></span></span></td>
+						<td valign="top" align="left">
+							$1033  </td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt21 qno4151' BGCOLOR='#CCFFCC'>
+						<td valign="top" align="left">
+							<span class="s14"><span style="color: #003466;"><b>Account Credit Balance:</b></span></span></td>
+						<td valign="top" align="left">
+							$0  </td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt21 qno3931' BGCOLOR='#CCCCCC'>
+						<td valign="top" align="left">
+							<span class="s14"><span style="color: #003466;"><b>Final Fee Due (USD):</b></span></span></td>
+						<td valign="top" align="left">
+							$1033  </td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt45 qno3701' BGCOLOR='White'>
+						<td COLSPAN='2' align="left">
+							<span class="s16"><span style="color: #003466;">Payable to:<br>
+<br>
+Beneficiary Name: Bare Associates International Inc <br>
+Beneficiary Address: Meir 12, Antwerp 2000, Belgium<br>
+Bank Account Number: BE24 3631 9487 2838<br>
+Bank Name: ING BELGIUM NV SA<br>
+Bank Swift Code: BBRUBEBB<br>
+<br>
+<b><big><font color =#DF0101>Wire Transfer Fees are the responsibility of the sender (hotel), not the recipient.<br><br></big></b></font color =#DF0101>
+After receiving your pre-payment, BARE will start scheduling your requested audit. Please allow at least 4 weeks for scheduling process after pre-payment is received.<br>  <BR>PRE-PAY INVOICES THAT ARE NOT PAID WITHIN 60 DAYS WILL RESULT IN A 3% LATE FEE. <br><br>
+Thank you for placing your Purchase Order with BARE International!</span></span></td>
+					</tr>
+					<!-- NEED 2 --><tr class='qfmt42 qno4221' BGCOLOR='Yellow'>
+						<td COLSPAN='2' align="center">
+							<span class="s16"><span style="color: Red;"><b>For BARE Internal Use ONLY: Do not complete.</b></span></span></td>
+					</tr>
+					
+					<!-- NEED 2 --><tr class='qfmt9 qno4251' BGCOLOR='White'>
+						<td valign="top" align="left">
+							PO Status</td>
+						<td valign="top" align="left">
+										<div class=
+							"lineitem option1 lineitem4251"></div>
+										<div class=
+							"lineitem option2 lineitem4251"></div>
+										<div class=
+							"lineitem option3 lineitem4251"></div>
+										<div class=
+							"lineitem option4 lineitem4251">On Hold - Query sent to location</div>
+										<div class=
+							"lineitem option5 lineitem4251"></div>
+										<div class=
+							"lineitem option6 lineitem4251"></div>
+										<div class=
+							"lineitem option7 lineitem4251"></div>
+										<div class=
+							"lineitem option8 lineitem4251"></div>
+							<div class='lineitem'></div>
+						</td>
+					</tr>
+					
+
+			
+					
+
+				</table>
+		
+		</td>
+	</tr>
+</table>
+
+	</div>
+
+
+
+		</div>
+ 		<footer>
+			
+		</footer>
+	</div> <!--! end of #container -->
+	<!--[if lt IE 7 ]>
+	<script src="https://www.apollo.bareinternational.com/fetch/js/libs/dd_belatedpng.min.js"></script>
+	<script>DD_belatedPNG.fix("img, .png_bg"); // Fix any <img> or .png_bg bg-images. Also, please read goo.gl/mZiyb </script>
+	<![endif]-->
+	
+</body>
+</html>
+
